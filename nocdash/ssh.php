@@ -1,0 +1,5 @@
+<?php
+
+echo exec('xterm');
+
+?>
